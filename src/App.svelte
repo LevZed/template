@@ -21,6 +21,7 @@
 		text-transform: uppercase;
 		font-size: 9em;
 		font-weight: 100;
+
 	}
 
 	p {
