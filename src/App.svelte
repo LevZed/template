@@ -13,13 +13,18 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+		background-color: #1c1c1c;
 	}
 
 	h1 {
-		color: #ff3e00;
+		color: #33ff;
 		text-transform: uppercase;
-		font-size: 4em;
+		font-size: 9em;
 		font-weight: 100;
+	}
+
+	p {
+		color: white;
 	}
 
 	@media (min-width: 640px) {
